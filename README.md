@@ -1,6 +1,5 @@
 MY ALGORITHM: Reverse Vowels in a String
 
-
 STEP 1: START
 
 STEP 2: Take a sentence and break it into letters.
